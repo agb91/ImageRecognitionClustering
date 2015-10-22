@@ -1,0 +1,124 @@
+
+Accuratezza complessiva = 21.4285714286%
+
+--------------------------
+RISULTATI INTERMEDI
+--------------------------
+
+
+
+Legenda degli indici:
+
+0 -> mouse
+
+1 -> moto
+
+2 -> camper
+
+
+
+RISULTATI ITERAZIONE 0
+
+Matrice di confusione:
+
+       0   1   2
+
+   0   0   0   2
+   1   0   1   0
+   2   0   0   1
+
+
+Accuratezza = 50.0%
+
+
+
+RISULTATI ITERAZIONE 1
+
+Matrice di confusione:
+
+       0   1   2
+
+   0   0   1   1
+   1   0   0   1
+   2   1   0   0
+
+
+Accuratezza = 0.0%
+
+
+
+RISULTATI ITERAZIONE 2
+
+Matrice di confusione:
+
+       0   1   2
+
+   0   0   1   0
+   1   2   0   0
+   2   0   1   0
+
+
+Accuratezza = 0.0%
+
+
+
+RISULTATI ITERAZIONE 3
+
+Matrice di confusione:
+
+       0   1   2
+
+   0   0   0   1
+   1   0   0   2
+   2   0   0   1
+
+
+Accuratezza = 25.0%
+
+
+
+RISULTATI ITERAZIONE 4
+
+Matrice di confusione:
+
+       0   1   2
+
+   0   0   0   1
+   1   2   0   1
+   2   1   0   0
+
+
+Accuratezza = 0.0%
+
+
+
+RISULTATI ITERAZIONE 5
+
+Matrice di confusione:
+
+       0   1   2
+
+   0   0   0   1
+   1   2   0   0
+   2   0   0   1
+
+
+Accuratezza = 25.0%
+
+
+
+RISULTATI ITERAZIONE 6
+
+Matrice di confusione:
+
+       0   1   2
+
+   0   1   1   0
+   1   0   1   0
+   2   0   1   0
+
+
+Accuratezza = 50.0%
+
+
+
